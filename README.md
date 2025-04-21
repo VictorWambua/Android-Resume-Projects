@@ -5,6 +5,9 @@
 ## About This Repository
 
 Welcome! This repository contains Android applications that I have developed to showcase my skills in mobile app development.
+Click on the link below to see a video intro about the repo, thanks for stopping by.
+
+## https://1drv.ms/v/c/563cee0ca2c13922/EXYjKy3L-k5BkvQqbfCTEngBMjQ2ulOl-pRzyYb7Q5bWCw?e=Thbd2V
 
 ### Why This Repository?
 
